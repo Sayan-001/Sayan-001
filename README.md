@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sayan Gupta.
+- 👋 Hi, I’m Sayan Gupta, a Computer Science Undergraduate.
 - 👀 I’m interested in Web Development and Competitive Programming.
 - 🌱 I’m currently learning C++ & JS.
 
