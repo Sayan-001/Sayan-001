@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sayan Gupta, a Computer Science Undergraduate.
-- 👀 I’m interested in Machine Learning, Web Development and Competitive Programming.
+- 👀 I’m interested in Machine Learning and Competitive Programming.
 - 🌱 I’m currently learning C++ & Python, and have proficient knowledge of HTML, CSS & C.
 
 <!---
